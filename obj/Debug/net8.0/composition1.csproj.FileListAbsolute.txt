@@ -1,0 +1,14 @@
+C:\Users\igor-\OneDrive\Área de Trabalho\C#\composition1\composition1\obj\Debug\net8.0\composition1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igor-\OneDrive\Área de Trabalho\C#\composition1\composition1\obj\Debug\net8.0\composition1.AssemblyInfoInputs.cache
+C:\Users\igor-\OneDrive\Área de Trabalho\C#\composition1\composition1\obj\Debug\net8.0\composition1.AssemblyInfo.cs
+C:\Users\igor-\OneDrive\Área de Trabalho\C#\composition1\composition1\obj\Debug\net8.0\composition1.csproj.CoreCompileInputs.cache
+C:\Users\igor-\OneDrive\Área de Trabalho\C#\composition1\composition1\bin\Debug\net8.0\composition1.exe
+C:\Users\igor-\OneDrive\Área de Trabalho\C#\composition1\composition1\bin\Debug\net8.0\composition1.deps.json
+C:\Users\igor-\OneDrive\Área de Trabalho\C#\composition1\composition1\bin\Debug\net8.0\composition1.runtimeconfig.json
+C:\Users\igor-\OneDrive\Área de Trabalho\C#\composition1\composition1\bin\Debug\net8.0\composition1.dll
+C:\Users\igor-\OneDrive\Área de Trabalho\C#\composition1\composition1\bin\Debug\net8.0\composition1.pdb
+C:\Users\igor-\OneDrive\Área de Trabalho\C#\composition1\composition1\obj\Debug\net8.0\composition1.dll
+C:\Users\igor-\OneDrive\Área de Trabalho\C#\composition1\composition1\obj\Debug\net8.0\refint\composition1.dll
+C:\Users\igor-\OneDrive\Área de Trabalho\C#\composition1\composition1\obj\Debug\net8.0\composition1.pdb
+C:\Users\igor-\OneDrive\Área de Trabalho\C#\composition1\composition1\obj\Debug\net8.0\composition1.genruntimeconfig.cache
+C:\Users\igor-\OneDrive\Área de Trabalho\C#\composition1\composition1\obj\Debug\net8.0\ref\composition1.dll

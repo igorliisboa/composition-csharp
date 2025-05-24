@@ -1,2 +1,2 @@
 # composition-csharp
-Exercício de C# e OO
+Exercício de OO em C#
